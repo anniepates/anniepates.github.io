@@ -12,11 +12,13 @@ Hi! My name is Annie, and I am pursuing a master's in computer science in the Al
 
 I am very excited to spend this summer as a DREAM research fellow. The Distributed REsearch Apprenticeships for Master’s, is an NSF-funded research program designed to support students entering the field of computer science without CS backgrounds by offering mentorship, professional development, and collaboration in pursuit of higher education.
 
+If you have any questions or would like to collaborate, please don't hesitate to reach out using the email link at the bottom of the page.
+
 ## About My Advisor
 
-I am advised by <a href="https://www.megan-hofmann.com">Prof. Megan Hofmann</a>, director of the <a href="https://actlab.sites.northeastern.edu/research/">Accessible Technologies Lab</a> at Northeastern.
+I am advised by <a href="https://www.megan-hofmann.com" target="_blank" rel="noopener noreferrer">Prof. Megan Hofmann</a>, director of the <a href="https://actlab.sites.northeastern.edu/research/" target="_blank" rel="noopener noreferrer">Accessible Technologies Lab</a> at Northeastern.
 
-I am also colloaborating with <a href="https://www.farazfaruqi.com">Faraz Faruqi</a>, PhD student at MIT CSAIL.
+I am also colloaborating with <a href="https://www.farazfaruqi.com" target="_blank" rel="noopener noreferrer">Faraz Faruqi</a>, PhD student at MIT CSAIL.
 
 ## About My Project
 
