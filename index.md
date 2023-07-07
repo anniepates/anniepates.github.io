@@ -22,7 +22,7 @@ I am also colloaborating with <a href="https://www.farazfaruqi.com" target="_bla
 
 ## About My Project
 
-The research project I am joining focuses on using generative AI to manipulate 3D models without sacrificing the functionality of the object once fabricated for use in the real world. My project involves using natural language processing to classify objects by end use. The goal is to match user queries to the appropriate database model and make appropriate adjustments based on followup queries. I will be matching queries to models in the Thingiverse database to create a wide variety of objects. I am very excited to join in the accessibility focus of Prof. Hofmann's lab- I will also be including models from the NIH 3D database to enable fabrication of assitive devices.
+The larger research project I am joining focuses on segmenting 3D models to allow for personalization without sacrificing the functionality of the object once fabricated for use in the real world. My work involves using natural language processing to identify important features in model descriptions. The goal is to match overlapping keywords in object descriptions with overlapping segments in the 3D meshes to identify related objects that may not be adequately labeled. This will allow user queries to find a better range of potential models. I am very excited to join in the accessibility focus of Prof. Hofmann's lab- I will also be including models from the NIH 3D database to enable fabrication of assitive devices.
 
 [My Final Report](files/finalreport.pdf)
 
